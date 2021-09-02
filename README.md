@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chardebeer
+- 👋 Hi, I’m Charlize
 - 👀 I’m interested in creating collaborative digital spaces focused around sustainabiliy & open collaboration. 
      I'm passionate about quantum physics, particle physics, metaphysics and theoretical physics and hope to some day be able incorpotate my work in these fields.
 - 🌱 I’m currently learning bohmian dialogue methodologies which focus on quantum fragmentation in our society, Quantum computing languages & also bettering my Python skills
