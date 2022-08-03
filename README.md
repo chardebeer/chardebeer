@@ -1,3 +1,5 @@
+![](https://user-images.githubusercontent.com/34354758/33742193-ce4522e8-db6c-11e7-9e43-b8ec4258f31f.PNG) 
+
 - 👋 Hi, I’m Charlize
 - 👀 I’m interested in creating collaborative digital spaces focused around sustainabiliy & open collaboration. 
      I'm passionate about quantum physics, particle physics, metaphysics and theoretical physics and hope to some day be able incorpotate my work in these fields.
