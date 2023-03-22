@@ -4,12 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm Charlize</h1>
 <h3 align="center">A passionate UX/UI designer from Cape Town, South Africa</h3>
+<p align="center">My passion for all things creative and digital drives me to blend my skills in various fields to generate truly unique and effective solutions. From aesthetics to problem solving, I am passionate about creating digital experiences that people love interacting with. Beyond my professional life, I am deeply invested in my passion for gaming, Japanese culture, particle physics, theoretical physics, and philosophy. I continuously seek opportunities to incorporate these interests into my professional work and strive towards a future where I can bring my passions to the forefront.</p>
 
 - 🔭 I’m currently working on **Building a Custom Linux based operating system**
 
 - 🌱 I’m currently learning **Blender**
-
-- 📄 Learn more about my experience [https://www.linkedin.com/in/charlizedebeer/](https://www.linkedin.com/in/charlizedebeer/)
 
 - ⚡ Fun fact **I love making Anime Music Videos**
 
