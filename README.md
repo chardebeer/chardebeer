@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact **I love making Anime Music Videos**
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nxw039pjhlu7gdi55alyuszqw&cover_image=true&theme=default&show_offline=false&background_color=2a2c2d&interchange=false&bar_color=50fa7b)](https://github.com/kittinan/spotify-github-profile)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/charlizedebeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlizedebeer" height="30" width="40" /></a>
