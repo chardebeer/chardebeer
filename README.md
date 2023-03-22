@@ -5,7 +5,7 @@
 <br>
 
   ## 💰 Support me ^-^
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charlize) 
+  [![BuyMeACoffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-3.svg)](https://buymeacoffee.com/charlize) 
 
 
 ## 🌐 Connect with me:
@@ -29,9 +29,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=chardebeer&icon=2&color=6)](https://visitcount.itsvg.in)
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/charlize"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-3.svg" height="50" width="210" alt="charlize" /></a></p><br><br>
 
 ![](https://raw.githubusercontent.com/chardebeer/images/main/undertale_text_box.png) 
 
