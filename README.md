@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Charlize</h1>
+<h1 align="center">Hi ^_^</h1>
 <h3 align="center">A passionate UX/UI designer from Cape Town, South Africa</h3>
 <bR>
 <p align="center">My passion for all things creative and digital drives me to blend my skills in various fields to generate truly unique and effective solutions. From aesthetics to problem solving, I am passionate about creating digital experiences that people love interacting with. Beyond my professional life, I am deeply invested in my passion for gaming, Japanese culture, particle physics, theoretical physics, and philosophy. I continuously seek opportunities to incorporate these interests into my professional work and strive towards a future where I can bring my passions to the forefront.</p>
